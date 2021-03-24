@@ -108,7 +108,7 @@ html:after {
   box-sizing: border-box;
 }
 body {
-  overflow-y: scroll !important;
+  /*overflow-y: scroll !important;*/
 }
 [data-xf-click],
 a[tabindex] {
